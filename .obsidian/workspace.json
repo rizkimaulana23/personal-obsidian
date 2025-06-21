@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/MongoDB/7. Update.md",
+                "file": "Coding/MongoDB/10. Logical Query Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Update"
+              "title": "10. Logical Query Operators"
             }
           }
         ],
@@ -200,12 +200,15 @@
   },
   "active": "7fcfbf87d061bd7d",
   "lastOpenFiles": [
+    "Coding/MongoDB/9. Comparison Operators.md",
+    "Coding/MongoDB/10. Logical Query Operators.md",
+    "Coding/MongoDB/8. Delete.md",
+    "Coding/MongoDB/7. Update.md",
     "Coding/MongoDB/1. Introduction.md",
     "Coding/MongoDB/3. Insert Documents.md",
     "Coding/MongoDB/4. Data Types.md",
     "Coding/MongoDB/5. Sorting and Limiting.md",
     "Coding/MongoDB/6. Find.md",
-    "Coding/MongoDB/7. Update.md",
     "Coding/MongoDB/2. Databases.md",
     "Pasted image 20250621181624.png",
     "Coding/Go/9. Channels.md",
@@ -235,12 +238,9 @@
     "2025-05-06.md",
     "2025-05-08.md",
     "Magang/Pusilkom/Petty Cash.md",
-    "asdf.md",
     "Pasted image 20250506192238.png",
     "Pasted image 20250508191413.png",
     "Pasted image 20250508191422.png",
-    "Untitled.md",
-    "Welcome.md",
     "Japanese/Class",
     "Japanese",
     "Magang/Pusilkom",
