@@ -68,8 +68,53 @@ B :
 ![[Pasted image 20250623155428.png]]
 ### Can-Do 67
 Mampu bertanya mengenai cara membuang sampah dan memahami jawabannya.
-
+![[Pasted image 20250623210222.png]]
 ### Can-Do 71
+Mampu bertanya kepada orang di sekitar dan mendapatkan informasi yang dibutuhkan ketika terjadi bencana. 
+
+Fokus ke penggunaan:
+- V (普通形) かどうか、～
+
+![[Pasted image 20250623210924.png]]
+
+![[Pasted image 20250623210934.png]]
+
+**Menurut Anda, hal apakah yang menyulitkan dan yang membuat Anda khawait ketika terjadi bencana?**
+
 ### Can-Do 73
+Mampu bercerita secara sederhana mengenai peristiwa maupun perubahan kehidupan setelah datang ke Jepang
+
+Fokus di penggunaan kalimat:
+- V-(られ)るようになりました
+
+
+![[Pasted image 20250623211317.png]]
+
+**Mari berbincang mengenai perubahan dalam kehidupan Anda akhir-akhir ini!**
+
 ### Can-Do 74
+Mampu bercerita secara sederhana kepada rekan kerja mengenai kondisi pekerjaan akhir-akhir ini.
+
+![[Pasted image 20250623211435.png]]
+![[Pasted image 20250623211446.png]]
+**Mari berbicara dengan membandingkan kemampuan bahasa Jepang Anda saat baru mulai belajar dengan kemampuan sat ini! Perubahan seperti apakah yang ada dalam kemampuan bahasa Jepang anda?**
+
+Saat pertama mulai, saya hanya bisa membaca hiragana, katakana, dan mengerti beberapa istilah yang sering diucapkan di anime. Sekarang, setelah belajar giat selama setahun, saya sudah semakin mahir dalam bahasa Jepang. Contohnya, saya sudah bisa membaca dan mengerti kebanyakan hal di Internet dan bisa percakapan walaupun sedikit.
+
+はじめに、私は平仮名と片仮名を読むことができるだけです。今、１年間勉強した後、日本語がうずいぶん上手になりました。例えば、インタネットのポストのおくを読んで理解するようになりました。ま、会話も少しできるようになりました。
+
 ### Can-Do 76
+Mampu berbicara secara sederhana mengenai cita-cita dan harapan di masa depan
+
+Poin utama:
+- Menggunakan verba V- (よ) うと思います
+- V-るために
+
+![[Pasted image 20250623211701.png]]
+![[Pasted image 20250623211712.png]]
+
+**Mari berbicara dengan bebas mengenai harapan dan impian masa depan Anda**
+
+
+
+
