@@ -1,3 +1,27 @@
+### Can-Do 56
+1. お風呂に入るためのチケットは１人いくらですか？
+   １人４００円
+2. タオルはどうやって買いますか？
+   券売機でチケットを買って、それで受付にチケットをあげる。
+3. 休憩室に入るのはいくらかかりますか？
+   無料です。
+### Can-Do 78
+皆さん、お世話になりました。
+
+１年間、ちょっと長かった時間けど、この時間は大切な時間です。
+
+このクラスはオフラインで会う機会が少ないけど、みんなと知り合えて嬉しいです。
+
+最初の時、日本語が全然わかりません。でも、先生方は私にたくさん手伝ってくれました。とても、感謝しています。
+
+Tinggal rencana untuk masa depan
+
+ありがとうございました。
+### Can-Do 65 (Wajib)
+環境のために、何を気を付けていますか？
+- 
+
+---
 ## **Mendengarkan + Tanya Jawab**
 ### Can-Do 56
 Mampu mendengarkan serta memahami instruksi mengenai peraturan dan cara menggunakan fasilitas umum, seperti gym, dan sebagainya.
@@ -33,6 +57,12 @@ Mampu mendeskripsikan mengenai barang yang hilang serta tempat kehilangan benda 
 ### Can-Do 40
 Mampu memperkenalkan secara sederhana mengenai acara atau festival yang ada di negara sendiri.
 
+Fokus:
+- S (普通形) + 人が
+- S (普通形) + 人も
+- V-ながら
+- Nによって
+
 - Menjelaskan negara apa
 - Menyebutkan nama acaranya
 - Tentang apa acaranya
@@ -46,17 +76,29 @@ Mampu memperkenalkan secara sederhana mengenai acara atau festival yang ada di n
 
 牛やヤギを自分で殺すことができる。普通は、専門家が殺します。
 
-その殺して牛とRendangを作って、食べてます。
+その殺して牛とRendangを作って、食べます。
 
 ![[Pasted image 20250623153145.png]]
 ### Can-Do 48
 Mampu menyampaikan kepada orang-orang di sekitar ketika mengalami suatu masalah saat berbelanja.
 
+Fokus:
+- NをV-(ら)れます
+- S (普通形) かもしれません
+- V-てしまいした
+
 ![[Pasted image 20250623154456.png]]
 ![[Pasted image 20250623154500.png]]
 ![[Pasted image 20250623154506.png]]
+
+Contoh kondisi darurat:
+- 
 ### Can-Do 57
 Mampu bertanya mengenai cara penggunaan dan peraturan perpustakaan, sert memahami jawabannya.
+
+Fokus:
+- Nなら、～
+- (Kata tanya) V-ても、～
 
 A : すみません。この本は借りられますか？
 B : その本はかりられませんです。その本はアンチックな本ですから。
@@ -66,8 +108,15 @@ B :
 ![[Pasted image 20250623155410.png]]
 ![[Pasted image 20250623155422.png]]
 ![[Pasted image 20250623155428.png]]
+**Bertanyalah kepada petugas perpustakaan mengenai cara penggunaan perpustakaan!**
+
+Hal yang bisa dilakukan:
+- 漫画は借りられますか？
+- できないなら、どんな本は借りられますか？
+- ああ、そうですか。それで、どのぐらい借りられますか？
 ### Can-Do 67
 Mampu bertanya mengenai cara membuang sampah dan memahami jawabannya.
+
 ![[Pasted image 20250623210222.png]]
 ### Can-Do 71
 Mampu bertanya kepada orang di sekitar dan mendapatkan informasi yang dibutuhkan ketika terjadi bencana. 
@@ -81,6 +130,15 @@ Fokus ke penggunaan:
 
 **Menurut Anda, hal apakah yang menyulitkan dan yang membuat Anda khawait ketika terjadi bencana?**
 
+Hal yang membuat saya khawatir saat ada bencana adalah jika listrik mati dan daerah listrik yang mati daerah apa saja. Menanyakan
+- Harus menggunakan laptop dan laptop nya ini harus di-charge. Seharusnya bagaimana?
+- Kapan listrik ini akan menyala
+- Area apa yang listriknya masih atau sudah menyala
+
+- ラプトップを充電しなければならないです。どうすればいいですか？
+- 電気がついてはいつですか？
+- この周辺は利用可能電気がありますか？
+
 ### Can-Do 73
 Mampu bercerita secara sederhana mengenai peristiwa maupun perubahan kehidupan setelah datang ke Jepang
 
@@ -92,6 +150,9 @@ Fokus di penggunaan kalimat:
 
 **Mari berbincang mengenai perubahan dalam kehidupan Anda akhir-akhir ini!**
 
+Akhir-akhir ini, saya mulai memainkan kembali game yang telah saya mainkan sebelumnya. Nama game-nya adalah Red Dead Redemption 2. Tema game-nya adalah tentang cowboy dan kriminal. Game tersebut cukup tenang jadi saya menjadi lebih rileks.
+
+最近、私が昔プレイしたゲームを始まりました。そのゲームはRed Dead Redemption 2です。そのゲームのテーマは１８９９年の米国です。そのゲームはゆっくりとしたペースのゲームので、落ち着けるようになりました。
 ### Can-Do 74
 Mampu bercerita secara sederhana kepada rekan kerja mengenai kondisi pekerjaan akhir-akhir ini.
 
@@ -115,6 +176,12 @@ Poin utama:
 
 **Mari berbicara dengan bebas mengenai harapan dan impian masa depan Anda**
 
+Sekarang, saya adalah seorang mahasiswa yang sedang mengambil kelas dan magang di suatu perusahaan secara bersamaan. Sangatlah melelahkan.
 
+Masa depan saya,
+
+今、私は大学授業を取りながら、インターンシップをやっています。とてもしんどいです。
+
+私は、日本で働いて家族を作ると思います。そのために、日本語をたくさん勉強しろと思います。
 
 
