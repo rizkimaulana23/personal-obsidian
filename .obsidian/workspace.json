@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Caching/Caching Pitfalls.md",
+                "file": "Project/Jobseek/Table Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caching Pitfalls"
+              "title": "Table Structure"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -200,9 +200,21 @@
   },
   "active": "7fcfbf87d061bd7d",
   "lastOpenFiles": [
-    "Coding/Caching/Caching Invalidation.md",
+    "Project/Jobseek/Back-End Needs.md",
+    "Project/Jobseek/Table Structure.md",
+    "Coding/MongoDB/2. Databases.md",
     "Coding/Caching/Caching Pitfalls.md",
+    "Coding/Caching/Caching Invalidation.md",
     "Coding/Caching/Caching.md",
+    "Coding/Go/Mongo Driver/1. Installation.md",
+    "Project/Jobseek",
+    "Coding/MongoDB/4. Data Types.md",
+    "Coding/Go/Fiber/2. Setting Up Routes.md",
+    "Coding/Go/Mongo Driver",
+    "Coding/Go/Untitled.md",
+    "Coding/Go/Fiber/1. Importing.md",
+    "Japanese/UAS Lisan 4th Term.md",
+    "Coding/Go/Fiber",
     "Coding/Elasticsearch/3. Inserting Documents.md",
     "Coding/Caching",
     "Coding/Elasticsearch/2. Create index.md",
@@ -214,7 +226,6 @@
     "Coding/Go/8. Goroutines.md",
     "Coding/Elasticsearch",
     "Coding/Go/9. Channels.md",
-    "Japanese/UAS Lisan 4th Term.md",
     "Pasted image 20250623211712.png",
     "Pasted image 20250623211701.png",
     "Pasted image 20250623211446.png",
@@ -223,7 +234,6 @@
     "Pasted image 20250623211315.png",
     "Coding/MongoDB/12. Collections.md",
     "Coding/MongoDB/3. Insert Documents.md",
-    "Coding/MongoDB/2. Databases.md",
     "Coding/MongoDB/1. Introduction.md",
     "asdf.md",
     "2025-05-06.md",
@@ -231,20 +241,10 @@
     "Coding/MongoDB/10. Logical Query Operators.md",
     "Coding/MongoDB/7. Update.md",
     "Coding/MongoDB/9. Comparison Operators.md",
-    "Coding/MongoDB/8. Delete.md",
-    "Coding/MongoDB/4. Data Types.md",
-    "Coding/MongoDB/5. Sorting and Limiting.md",
-    "Coding/MongoDB/6. Find.md",
     "Coding/MongoDB",
-    "Coding/Go/7. Pointers.md",
-    "Coding/Go/6. Structs and Interfaces.md",
-    "Coding/Go/5. Strings, Runes, and Bytes.md",
     "Coding/Go",
     "Coding",
     "Personal",
-    "Project",
-    "Japanese/Class",
-    "Japanese",
-    "Magang/Pusilkom"
+    "Project"
   ]
 }
