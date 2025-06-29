@@ -35,6 +35,8 @@ This attributes will dictate if the field could be deleted or not. This field on
 The other column that is made by the user will be set as `true` and cannot be set to `false`.
 #### **`options`**
 This attribute will dictate what value could the user choose. This attribute only be set to nil for `type` other than `enum`.
+## Document Structure
+One thing that should be noted is, the field that is referencing other field is stored as a string, not as a ObjectId object.
 ### users
 ```json
 {
@@ -99,7 +101,7 @@ This attribute will dictate what value could the user choose. This attribute onl
 {
 	id: "jobs1",
 	userEmail: "rizkim0071@gmail.com",
-	company: "id_company1",
+	companyId: "id_company1",
 	description: "",
 	status: "Applied",
 	applied_date: 2025-01-21,

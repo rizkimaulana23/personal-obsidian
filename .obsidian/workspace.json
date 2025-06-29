@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Jobseek/Table Structure.md",
+                "file": "Project/Jobseek/Document Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table Structure"
+              "title": "Document Structure"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 200
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -200,10 +200,24 @@
   },
   "active": "7fcfbf87d061bd7d",
   "lastOpenFiles": [
-    "Coding/Go/4. Arrays, Slice, Maps, and Loops.md",
-    "Project/Jobseek/Table Structure.md",
-    "Project/Jobseek/Back-End Needs.md",
+    "Coding/Go/3. Functions and Control Structures.md",
+    "Coding/Go/2. Constant Variables and Basic Data Types.md",
+    "Coding/Go/1. Introduction to Golang.md",
+    "Project/Jobseek/Document Structure.md",
+    "Project/Jobseek/Service Explanation/Job Service.md",
+    "Project/Jobseek/Service Explanation/Job Table Service.md",
     "Project/Jobseek/Endpoint.md",
+    "Project/Jobseek/Back-End Needs.md",
+    "Coding/MongoDB/9. Comparison Operators.md",
+    "Coding/MongoDB/10. Logical Query Operators.md",
+    "Project/Jobseek/Service Explanation/Company Document Service.md",
+    "Project/Jobseek/Service Explanation/Company Service.md",
+    "Project/Jobseek/Service Explanation/Users Service.md",
+    "Coding/Go/4. Arrays, Slice, Maps, and Loops.md",
+    "Coding/Go/5. Strings, Runes, and Bytes.md",
+    "Coding/Go/6. Structs and Interfaces.md",
+    "Project/Jobseek/Service Explanation",
+    "Project/Jobseek/Untitled.md",
     "Coding/MongoDB/2. Databases.md",
     "Coding/Caching/Caching Pitfalls.md",
     "Coding/Caching/Caching Invalidation.md",
@@ -215,36 +229,22 @@
     "Coding/Go/Mongo Driver",
     "Coding/Go/Untitled.md",
     "Coding/Go/Fiber/1. Importing.md",
-    "Japanese/UAS Lisan 4th Term.md",
     "Coding/Go/Fiber",
-    "Coding/Elasticsearch/3. Inserting Documents.md",
     "Coding/Caching",
-    "Coding/Elasticsearch/2. Create index.md",
     "Pasted image 20250625151725.png",
     "Pasted image 20250625151625.png",
     "Pasted image 20250625150824.png",
-    "Coding/Elasticsearch/1. Introduction.md",
     "Pasted image 20250625143357.png",
-    "Coding/Go/8. Goroutines.md",
     "Coding/Elasticsearch",
-    "Coding/Go/9. Channels.md",
     "Pasted image 20250623211712.png",
     "Pasted image 20250623211701.png",
     "Pasted image 20250623211446.png",
     "Pasted image 20250623211435.png",
     "Pasted image 20250623211317.png",
     "Pasted image 20250623211315.png",
-    "Coding/MongoDB/12. Collections.md",
-    "Coding/MongoDB/3. Insert Documents.md",
-    "Coding/MongoDB/1. Introduction.md",
-    "asdf.md",
-    "2025-05-06.md",
-    "Coding/MongoDB/11. Indexes.md",
-    "Coding/MongoDB/10. Logical Query Operators.md",
     "Coding/MongoDB",
     "Coding/Go",
     "Coding",
-    "Personal",
-    "Project"
+    "Personal"
   ]
 }
