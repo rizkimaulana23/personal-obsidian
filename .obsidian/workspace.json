@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "909d0da2d4839fc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-05-08.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-08"
-            }
-          },
-          {
             "id": "c3eb2b5e35997bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magang/Pusilkom/Petty Cash.md",
+                "file": "Magang/Tiket/Cucumber/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Petty Cash"
-            }
-          },
-          {
-            "id": "7fcfbf87d061bd7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/N3 Class/14-07-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14-07-2025"
+              "title": "1. Introduction"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -195,56 +165,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "7fcfbf87d061bd7d",
+  "active": "c3eb2b5e35997bf7",
   "lastOpenFiles": [
-    "Japanese/N3 Class/11-07-2025.md",
-    "Japanese/N3 Class/14-07-2025.md",
+    "Ngoreksi Basdat A09.md",
+    "Magang/Tiket/Cucumber/1. Introduction.md",
+    "Magang/Tiket/Untitled.md",
+    "Magang/Tiket/Cucumber",
+    "Magang/Tiket/Things to Learn.md",
+    "2025-05-08.md",
+    "Magang/Pusilkom/Petty Cash.md",
+    "Magang/Tiket.md",
+    "Magang/Tiket",
+    "2025-07-09.md",
+    "Project/Jobseek/Document Structure.md",
+    "Personal/Ukirama Interview Research.md",
+    "Personal/Tiket.md",
+    "Personal/Test Learning/Types of Test.md",
+    "Personal/Test Learning",
+    "Personal/Java Learning/OOP/Abstract Class and Interface.md",
+    "Personal/Java Learning/Testing/Validation and Verification.md",
+    "Personal/Java Learning/Testing/Test.md",
+    "Personal/Java Learning/Testing/Test Case and Scenario.md",
+    "Personal/Java Learning/Testing/Gherkin.md",
+    "Personal/Java Learning/OOP/OOP Concept.md",
+    "Personal/Java Learning/OOP/Generics Concept.md",
+    "Personal/Java Learning/Testing",
+    "Personal/Java Learning/String Concept.md",
+    "Personal/Java Learning/Scanner Concept.md",
+    "Personal/Java Learning/Problem Solving.md",
+    "Personal/Java Learning/OOP",
+    "Personal/Java Learning/HashMap Concept.md",
+    "Personal/Java Learning/Compiling and Running.md",
+    "Personal/Java Learning/Character Concept.md",
+    "Personal/Java Learning/Autoboxing and Unboxing.md",
+    "Personal/Java Learning",
+    "Personal/Java Learning.zip",
     "Pasted image 20250711190533.png",
     "Pasted image 20250711183449.png",
     "Pasted image 20250711183435.png",
     "Pasted image 20250711181706.png",
     "Pasted image 20250711181102.png",
     "Pasted image 20250711180733.png",
-    "Japanese/N3 Class/09-07-2025.md",
     "Pasted image 20250709184835.png",
     "Pasted image 20250709184605.png",
-    "Japanese/N3 Class/07-07-2025.md",
-    "2025-07-09.md",
     "Pasted image 20250707181016.png",
     "Pasted image 20250707180754.png",
-    "Japanese/N3 Class/04-07-25.md",
-    "Personal/Java Learning/Testing/Test Case and Scenario.md",
     "Japanese/N3 Class",
-    "Personal/Java Learning/Testing/Validation and Verification.md",
-    "Personal/Java Learning/Testing/Test.md",
-    "Personal/Java Learning/Testing/Gherkin.md",
-    "Personal/Java Learning/Problem Solving.md",
-    "Personal/Java Learning/Testing/Untitled",
-    "Personal/Java Learning/Testing",
-    "Personal/Java Learning/HashMap Concept.md",
-    "Personal/Java Learning/Compiling and Running.md",
-    "Personal/Java Learning/Character Concept.md",
-    "Personal/Tiket.md",
-    "Personal/Java Learning.zip",
-    "Ngoreksi Basdat A09.md",
-    "asdf.md",
-    "Personal/Test Learning/Types of Test.md",
-    "Personal/Project Liburan.md",
-    "Personal/Test Learning",
-    "Personal/Java Learning/String Concept.md",
-    "Personal/Java Learning/Scanner Concept.md",
-    "Personal/Java Learning/OOP/Generics Concept.md",
-    "Personal/Java Learning/Array Concept.md",
-    "Personal/Java Learning/Autoboxing and Unboxing.md",
-    "Personal/Java Learning/OOP/OOP Concept.md",
-    "Personal/Java Learning/OOP/Abstract Class and Interface.md",
-    "Personal/Java Learning/OOP",
-    "Personal/Java Learning",
     "Project/Jobseek/Service Explanation",
-    "Project/Jobseek",
-    "Coding/Go/Mongo Driver"
+    "Project/Jobseek"
   ]
 }
