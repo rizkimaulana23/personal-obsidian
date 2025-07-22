@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"21f479e6805baef5","type":"text","text":"# **Directorate**\n### Technology","x":-420,"y":-100,"width":440,"height":120},
+		{"id":"34d09800edc16194","type":"text","text":"# **Department**\n### Software Development Engineer in Test","x":-700,"y":400,"width":440,"height":160},
+		{"id":"8e0ed9138ec160e3","type":"text","text":"# **Department**\n### Quality Assurance","x":-120,"y":400,"width":440,"height":160},
+		{"id":"737d1fa87c680479","type":"text","text":"# **Division**\n### Software Quality Assurance","x":-420,"y":140,"width":440,"height":120},
+		{"id":"071f93ddb7eb3145","type":"text","text":"# **Team**\n### SDET App","x":-1140,"y":740,"width":440,"height":160},
+		{"id":"b076f4be7bad114c","type":"text","text":"# **Team**\n### SDET API","x":-600,"y":740,"width":440,"height":160},
+		{"id":"d1154dae3fc78e22","type":"text","text":"# **Team**\n### QA Grand","x":20,"y":740,"width":440,"height":160},
+		{"id":"71fcb2453323adcd","type":"file","file":"Screenshot 2025-07-16 at 11.15.18.png","x":640,"y":680,"width":245,"height":400}
+	],
+	"edges":[
+		{"id":"95f72c3f76708c3d","fromNode":"737d1fa87c680479","fromSide":"bottom","toNode":"34d09800edc16194","toSide":"top"},
+		{"id":"323e6ff896b16f2c","fromNode":"737d1fa87c680479","fromSide":"bottom","toNode":"8e0ed9138ec160e3","toSide":"top"},
+		{"id":"0c557cdec6501da9","fromNode":"21f479e6805baef5","fromSide":"bottom","toNode":"737d1fa87c680479","toSide":"top"},
+		{"id":"15487deaf92bf68d","fromNode":"34d09800edc16194","fromSide":"bottom","toNode":"071f93ddb7eb3145","toSide":"top"},
+		{"id":"fab3400963c8bf46","fromNode":"34d09800edc16194","fromSide":"bottom","toNode":"b076f4be7bad114c","toSide":"top"},
+		{"id":"e0547f9197ab00c5","fromNode":"8e0ed9138ec160e3","fromSide":"bottom","toNode":"d1154dae3fc78e22","toSide":"top"}
+	]
+}

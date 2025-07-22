@@ -1,0 +1,1 @@
+Fandy (?). SQA juga. Need to check more. Kayaknya udah full time hire. fandy.nurrahman@tiket.com. He is a SQA in GRAND.

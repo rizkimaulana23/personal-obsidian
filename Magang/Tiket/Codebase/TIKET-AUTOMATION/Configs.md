@@ -1,0 +1,1 @@
+We could get the configs that is being set the configuration when first running the test.
