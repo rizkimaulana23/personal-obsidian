@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magang/Tiket/Codebase/TIKET-AUTOMATION/Driver Tools.md",
+                "file": "Japanese/N3 Class/23-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Driver Tools"
+              "title": "23-07-2025"
             }
           }
         ],
@@ -70,7 +70,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -200,15 +201,18 @@
   },
   "active": "5f129bae3f2ebd46",
   "lastOpenFiles": [
-    "Magang/Tiket/Codebase/TIKET-AUTOMATION/Configs.md",
+    "Japanese/N3 Class/21-07-2025.md",
+    "Japanese/N3 Class/23-07-2025.md",
+    "Magang/Tiket/Note.md",
+    "Magang/Tiket/Catet bentar.md",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION/Driver Tools.md",
+    "Magang/Tiket/Codebase/TIKET-AUTOMATION/Configs.md",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION/xpath.md",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION/Structure.md",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION/GitHub Structure.md",
     "Magang/Tiket/Doubt Session.md",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION/KT Session 2 Video.md",
     "Magang/Tiket/TestRail.md",
-    "Japanese/N3 Class/21-07-2025.md",
     "Screenshot 2025-07-21 at 20.00.48.png",
     "Screenshot 2025-07-21 at 19.42.04.png",
     "Screenshot 2025-07-21 at 18.08.36.png",
@@ -222,7 +226,6 @@
     "Magang/Tiket/Codebase/TIKET-AUTOMATION",
     "Magang/Tiket/Things to Learn.md",
     "Magang/Tiket/Organization Structure.canvas",
-    "Magang/Tiket/Note.md",
     "Magang/Tiket/Daily Notes/21-07-2025.md",
     "Magang/Tiket/Codebase/TIKET-API-AUTOMATION/Frameworks and Technology.md",
     "Coding/TestNG/2. Project Instantiation.md",
@@ -240,8 +243,6 @@
     "Coding/Jenkins/5. Freestyle Build and Pipelines.md",
     "Magang/Tiket/Daily Notes/17-07-2025.md",
     "Coding/Jenkins/4. Build Types.md",
-    "Coding/Jenkins/3. Agent Types.md",
-    "Coding/Jenkins/2. Infrastructure.md",
     "Coding/Jenkins",
     "Magang/Tiket/KT/API Automation",
     "Magang/Tiket/KT/API Overview",
