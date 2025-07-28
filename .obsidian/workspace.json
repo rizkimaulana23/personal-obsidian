@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magang/Tiket/KT Plan/1. Squad Session/1. Different Types of Applications.md",
+                "file": "Japanese Note Temp 25-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Different Types of Applications"
+              "title": "Japanese Note Temp 25-07-2025"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -200,11 +201,11 @@
   },
   "active": "7fcfbf87d061bd7d",
   "lastOpenFiles": [
+    "Magang/Tiket/KT Plan/1. Squad Session/1. Different Types of Applications.md",
     "Pasted image 20250715123314.png",
     "Pasted image 20250715123307.png",
     "Pasted image 20250715123300.png",
     "Magang/Tiket/Cucumber/1. Introduction.md",
-    "Magang/Tiket/KT Plan/1. Squad Session/1. Different Types of Applications.md",
     "Magang/Tiket/KT Plan/1. Squad Session",
     "Magang/Tiket/KT Plan",
     "Magang/Pusilkom/Petty Cash.md",
@@ -224,7 +225,6 @@
     "Pasted image 20250711180733.png",
     "Japanese/N3 Class/09-07-2025.md",
     "Pasted image 20250709184835.png",
-    "Pasted image 20250709184605.png",
     "Japanese/N3 Class/07-07-2025.md",
     "2025-07-09.md",
     "Japanese/N3 Class/04-07-25.md",
