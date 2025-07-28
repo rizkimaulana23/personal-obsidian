@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/N3 Class/23-07-2025.md",
+                "file": "Japanese/N3 Class/25-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23-07-2025"
+              "title": "25-07-2025"
             }
           }
         ],
@@ -201,8 +201,9 @@
   },
   "active": "5f129bae3f2ebd46",
   "lastOpenFiles": [
-    "Japanese/N3 Class/21-07-2025.md",
     "Japanese/N3 Class/23-07-2025.md",
+    "Japanese/N3 Class/25-07-2025.md",
+    "Japanese/N3 Class/21-07-2025.md",
     "Magang/Tiket/Note.md",
     "Magang/Tiket/Catet bentar.md",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION/Driver Tools.md",
@@ -242,7 +243,6 @@
     "Coding/Cucumber",
     "Coding/Jenkins/5. Freestyle Build and Pipelines.md",
     "Magang/Tiket/Daily Notes/17-07-2025.md",
-    "Coding/Jenkins/4. Build Types.md",
     "Coding/Jenkins",
     "Magang/Tiket/KT/API Automation",
     "Magang/Tiket/KT/API Overview",
