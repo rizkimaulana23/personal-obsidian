@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "28-07-2025"
             }
+          },
+          {
+            "id": "7de7e3effcaf2f70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,12 +209,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5f129bae3f2ebd46",
+  "active": "7de7e3effcaf2f70",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Pasted image 20250729094436.png",
+    "Pasted image 20250729094405.png",
+    "Pasted image 20250728133736.png",
+    "Pasted image 20250728133525.png",
+    "Magang/Tiket/Daily Notes/29-07-2025.md",
+    "Magang/Tiket/Daily Notes/28-07-2025.md",
+    "Japanese/N3 Class/28-07-2025.md",
+    "Japanese Note Temp 25-07-2025.md",
     "Pasted image 20250728184830.png",
     "Pasted image 20250728180913.png",
     "Japanese/N3 Class/25-07-2025.md",
-    "Japanese/N3 Class/28-07-2025.md",
     "Japanese/N3 Class/23-07-2025.md",
     "Japanese/N3 Class/21-07-2025.md",
     "Magang/Tiket/Note.md",
@@ -221,11 +239,6 @@
     "Screenshot 2025-07-21 at 19.42.04.png",
     "Screenshot 2025-07-21 at 18.08.36.png",
     "Screenshot 2025-07-21 at 15.50.23.png",
-    "Screenshot 2025-07-21 at 14.30.42.png",
-    "Screenshot 2025-07-21 at 14.30.28.png",
-    "Screenshot 2025-07-21 at 14.29.23.png",
-    "Screenshot 2025-07-21 at 14.27.59.png",
-    "Screenshot 2025-07-21 at 14.26.55.png",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION",
     "Magang/Tiket/Things to Learn.md",
     "Magang/Tiket/Organization Structure.canvas",
@@ -239,9 +252,6 @@
     "Magang/Tiket/Codebase/TIKET-API-AUTOMATION.md",
     "Magang/Tiket/Codebase",
     "Japanese/N3 Class/16-07-2025.md",
-    "Magang/Tiket/KT/API Automation/3. High Level Diagram.md",
-    "Coding/Cucumber/1. Introduction.md",
-    "Magang/Tiket/Cucumber/1. Introduction.md",
     "Coding/Cucumber",
     "Coding/Jenkins",
     "Magang/Tiket/KT/API Automation",
