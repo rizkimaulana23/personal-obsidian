@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Jenkins/1. What is Jenkins.md",
+                "file": "Japanese/N3 Class/28-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. What is Jenkins"
+              "title": "28-07-2025"
             }
           }
         ],
@@ -214,6 +214,7 @@
   },
   "active": "7de7e3effcaf2f70",
   "lastOpenFiles": [
+    "Coding/Jenkins/1. What is Jenkins.md",
     "Magang/Tiket/KT/API Overview/3. Things to be Verified in API Automation.md",
     "Magang/Tiket/KT/API Overview/2. Types of API (HTTP Methods).md",
     "Magang/Tiket/KT/API Overview/1. What is API.md",
@@ -251,7 +252,6 @@
     "Magang/Tiket/Daily Notes/21-07-2025.md",
     "Magang/Tiket/Codebase/TIKET-API-AUTOMATION/Frameworks and Technology.md",
     "Coding/TestNG/2. Project Instantiation.md",
-    "Coding/TestNG/1. Introduction.md",
     "Coding/TestNG",
     "Magang/Tiket/Codebase/TIKET-API-AUTOMATION",
     "Magang/Tiket/Codebase",
