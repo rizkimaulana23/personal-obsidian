@@ -53,10 +53,14 @@
             "id": "7de7e3effcaf2f70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Jenkins/1. What is Jenkins?.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. What is Jenkins?"
             }
           }
         ],
@@ -117,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -211,6 +214,9 @@
   },
   "active": "7de7e3effcaf2f70",
   "lastOpenFiles": [
+    "Magang/Tiket/KT/API Overview/3. Things to be Verified in API Automation.md",
+    "Magang/Tiket/KT/API Overview/2. Types of API (HTTP Methods).md",
+    "Magang/Tiket/KT/API Overview/1. What is API.md",
     "Untitled 2.md",
     "Pasted image 20250729094436.png",
     "Pasted image 20250729094405.png",
@@ -246,12 +252,9 @@
     "Magang/Tiket/Codebase/TIKET-API-AUTOMATION/Frameworks and Technology.md",
     "Coding/TestNG/2. Project Instantiation.md",
     "Coding/TestNG/1. Introduction.md",
-    "Magang/Tiket/Codebase/TIKET-API-AUTOMATION/Module Structure.md",
     "Coding/TestNG",
     "Magang/Tiket/Codebase/TIKET-API-AUTOMATION",
-    "Magang/Tiket/Codebase/TIKET-API-AUTOMATION.md",
     "Magang/Tiket/Codebase",
-    "Japanese/N3 Class/16-07-2025.md",
     "Coding/Cucumber",
     "Coding/Jenkins",
     "Magang/Tiket/KT/API Automation",
