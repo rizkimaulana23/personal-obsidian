@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magang/Tiket/Daily Notes/28-07-2025.md",
+                "file": "Magang/Tiket/Daily Notes/29-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28-07-2025"
+              "title": "29-07-2025"
             }
           }
         ],
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -215,10 +214,13 @@
   },
   "active": "87ad20bf9efaca6e",
   "lastOpenFiles": [
+    "Pasted image 20250729094436.png",
+    "Pasted image 20250729094405.png",
+    "Magang/Tiket/Daily Notes/28-07-2025.md",
+    "Magang/Tiket/Daily Notes/29-07-2025.md",
     "Pasted image 20250728133736.png",
     "Pasted image 20250728133525.png",
     "Untitled 2.md",
-    "Magang/Tiket/Daily Notes/28-07-2025.md",
     "Japanese Note Temp 25-07-2025.md",
     "Untitled 1.md",
     "Screenshot 2025-07-15 at 17.52.34.png",
@@ -228,8 +230,6 @@
     "Screenshot 2025-07-15 at 13.08.21.png",
     "Screenshot 2025-07-15 at 13.01.55.png",
     "Screenshot 2025-07-15 at 13.00.15.png",
-    "Screenshot 2025-07-15 at 12.54.06.png",
-    "Pasted image 20250715165735.png",
     "Magang/Tiket/Untitled 1.md",
     "Magang/Tiket/KT/SQUAD Session/9. Mobile Application Basics.md",
     "Magang/Tiket/KT/SQUAD Session/8. Things to test in API.md",
@@ -255,7 +255,6 @@
     "Magang/Tiket/Daily Notes",
     "Japanese/N3 Class/14-07-2025.md",
     "Magang/Tiket/Untitled.md",
-    "Magang/Tiket/Things to Learn.md",
     "Magang/Tiket/Cucumber",
     "Magang/Tiket",
     "Japanese/N3 Class",
