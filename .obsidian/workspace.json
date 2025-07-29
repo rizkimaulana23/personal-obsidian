@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/N3 Class/25-07-2025.md",
+                "file": "Japanese/N3 Class/28-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-07-2025"
+              "title": "28-07-2025"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -200,8 +201,11 @@
   },
   "active": "5f129bae3f2ebd46",
   "lastOpenFiles": [
-    "Japanese/N3 Class/23-07-2025.md",
+    "Pasted image 20250728184830.png",
+    "Pasted image 20250728180913.png",
     "Japanese/N3 Class/25-07-2025.md",
+    "Japanese/N3 Class/28-07-2025.md",
+    "Japanese/N3 Class/23-07-2025.md",
     "Japanese/N3 Class/21-07-2025.md",
     "Magang/Tiket/Note.md",
     "Magang/Tiket/Catet bentar.md",
@@ -222,7 +226,6 @@
     "Screenshot 2025-07-21 at 14.29.23.png",
     "Screenshot 2025-07-21 at 14.27.59.png",
     "Screenshot 2025-07-21 at 14.26.55.png",
-    "Screenshot 2025-07-21 at 14.24.30.png",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION",
     "Magang/Tiket/Things to Learn.md",
     "Magang/Tiket/Organization Structure.canvas",
@@ -240,8 +243,6 @@
     "Coding/Cucumber/1. Introduction.md",
     "Magang/Tiket/Cucumber/1. Introduction.md",
     "Coding/Cucumber",
-    "Coding/Jenkins/5. Freestyle Build and Pipelines.md",
-    "Magang/Tiket/Daily Notes/17-07-2025.md",
     "Coding/Jenkins",
     "Magang/Tiket/KT/API Automation",
     "Magang/Tiket/KT/API Overview",
