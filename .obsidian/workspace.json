@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/N3 Class/23-07-2025.md",
+                "file": "Magang/Tiket/Daily Notes/30-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23-07-2025"
+              "title": "30-07-2025"
             }
           }
         ],
@@ -214,8 +214,16 @@
   },
   "active": "87ad20bf9efaca6e",
   "lastOpenFiles": [
-    "Japanese/N3 Class/21-07-2025.md",
+    "Pasted image 20250730140553.png",
+    "Pasted image 20250730112631.png",
+    "Pasted image 20250730112619.png",
+    "Pasted image 20250730112453.png",
+    "Pasted image 20250730112442.png",
+    "Japanese/N3 Class/28-07-2025.md",
+    "Magang/Tiket/Daily Notes/30-07-2025.md",
+    "Pasted image 20250729190247.png",
     "Japanese/N3 Class/23-07-2025.md",
+    "Japanese/N3 Class/21-07-2025.md",
     "Untitled 3.md",
     "Magang/Tiket/Daily Notes/29-07-2025.md",
     "Screenshot 2025-07-21 at 20.00.48.png",
@@ -223,11 +231,6 @@
     "Screenshot 2025-07-21 at 18.08.36.png",
     "Screenshot 2025-07-21 at 15.50.23.png",
     "Screenshot 2025-07-21 at 14.30.42.png",
-    "Screenshot 2025-07-21 at 14.30.28.png",
-    "Screenshot 2025-07-21 at 14.29.23.png",
-    "Screenshot 2025-07-21 at 14.27.59.png",
-    "Screenshot 2025-07-21 at 14.26.55.png",
-    "Screenshot 2025-07-21 at 14.24.30.png",
     "Magang/Tiket/TestRail.md",
     "Magang/Tiket/KT/API Overview/3. Things to be Verified in API Automation.md",
     "Magang/Tiket/KT/API Overview/2. Types of API (HTTP Methods).md",
@@ -250,10 +253,7 @@
     "Coding/Jenkins/4. Build Types.md",
     "Coding/Jenkins/5. Freestyle Build and Pipelines.md",
     "Coding/Jenkins/3. Agent Types.md",
-    "Coding/Jenkins/2. Infrastructure.md",
-    "Coding/Jenkins/1. What is Jenkins.md",
     "Coding/Jenkins",
-    "Coding/Cucumber/1. Introduction.md",
     "Coding/Cucumber",
     "Magang/Tiket/KT/SQUAD Session",
     "Magang/Tiket/KT",
