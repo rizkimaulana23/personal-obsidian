@@ -90,9 +90,19 @@
               "icon": "lucide-file",
               "title": "04-08-2025"
             }
+          },
+          {
+            "id": "764bc187bd6e6d7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -241,10 +251,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "40eff3852b6585ed",
+  "active": "764bc187bd6e6d7c",
   "lastOpenFiles": [
-    "Untitled 4.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
     "Japanese/N3 Class/04-08-2025.md",
+    "Untitled 4.md",
     "Magang/Tiket/Demo/Demo Sprint 65.md",
     "Magang/Tiket/Demo",
     "Magang/Tiket/Daily Notes/31-07-2025.md",
@@ -278,8 +290,6 @@
     "Magang/Tiket/Note.md",
     "Magang/Tiket/Catet bentar.md",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION/Driver Tools.md",
-    "Magang/Tiket/Codebase/TIKET-AUTOMATION/Configs.md",
-    "Magang/Tiket/Codebase/TIKET-AUTOMATION/xpath.md",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION",
     "Magang/Tiket/Organization Structure.canvas",
     "Coding/TestNG",
