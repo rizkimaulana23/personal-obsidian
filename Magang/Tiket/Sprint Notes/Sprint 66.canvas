@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"726ae4086cc8fa70","type":"group","x":-820,"y":-220,"width":415,"height":760,"color":"6","label":"Tasks and Dependency"},
+		{"id":"d166197d3ba7b359","type":"text","text":"QAAUT-11287","x":-800,"y":-200,"width":250,"height":60},
+		{"id":"d84ea16503bfa573","type":"text","text":"QAAUT-11476","x":-800,"y":-100,"width":250,"height":60},
+		{"id":"8ba49f78c39d68a5","type":"text","text":"QAAUT-11475","x":-675,"y":20,"width":250,"height":60},
+		{"id":"a61fa1edfd8831c8","type":"text","text":"QAAUT-29826","x":-800,"y":120,"width":250,"height":60},
+		{"id":"07d5a05a2721911e","type":"text","text":"QAAUT-29823","x":-675,"y":240,"width":250,"height":60},
+		{"id":"ac995805964bda71","type":"text","text":"QAAUT-29821","x":-800,"y":340,"width":250,"height":60},
+		{"id":"4feca3d239ed30d8","type":"text","text":"QAAUT-29822","x":-675,"y":460,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9606a9021507eee2","fromNode":"8ba49f78c39d68a5","fromSide":"top","toNode":"d84ea16503bfa573","toSide":"bottom"},
+		{"id":"abe92bfb744e67e0","fromNode":"07d5a05a2721911e","fromSide":"top","toNode":"a61fa1edfd8831c8","toSide":"bottom"},
+		{"id":"6b7a11d530a5fe68","fromNode":"4feca3d239ed30d8","fromSide":"top","toNode":"ac995805964bda71","toSide":"bottom"}
+	]
+}

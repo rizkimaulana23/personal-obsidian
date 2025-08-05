@@ -1,4 +1,0 @@
-- [ ] RestAssured
-- [ ] Selenium 
-- [ ] Cucumber
-- [ ] 

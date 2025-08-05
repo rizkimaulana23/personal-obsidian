@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "7fcfbf87d061bd7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/N3 Class/28-07-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "28-07-2025"
-            }
-          },
-          {
             "id": "6e0b4f36edfb9b00",
             "type": "leaf",
             "state": {
@@ -67,18 +53,21 @@
             "id": "c3fc3728fbc732b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled 6.md",
-                "mode": "source",
-                "source": false
+                "file": "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
+                "viewState": {
+                  "x": -629.6281840286724,
+                  "y": 512.5004262708804,
+                  "zoom": -0.7211429784033032
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled 6"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sprint 66"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,44 +217,45 @@
   },
   "active": "c3fc3728fbc732b6",
   "lastOpenFiles": [
+    "Magang/Tiket/Sprint Notes/Sprint 66.md",
+    "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
+    "Magang/Tiket/Test Data, Sites, and Account.md",
+    "Magang/Tiket/Sprint Notes",
+    "Magang/Tiket/Account.md",
+    "Magang/Tiket/TestRail.md",
+    "Magang/Tiket/Things to Learn.md",
+    "Magang/Tiket/Daily Notes/04-08-2025.md",
+    "Magang/Tiket/Catet bentar.md",
+    "Japanese/Sentence Mining Video.md",
+    "Japanese/N3 Class/01-08-2025.md",
+    "Japanese/N3 Class/30-07-2025.md",
+    "Japanese/N3 Class/28-07-2025.md",
+    "Japanese/N3 Class/21-07-2025.md",
+    "Japanese/N3 Class/11-07-2025.md",
+    "Japanese/N3 Class/04-07-25.md",
     "Untitled 6.md",
     "Untitled 5.md",
-    "Japanese/N3 Class/28-07-2025.md",
     "Untitled 4.md",
-    "Japanese/N3 Class/30-07-2025.md",
     "Japanese/N3 Class/25-07-2025.md",
     "Japanese/N3 Class/23-07-2025.md",
-    "Japanese/N3 Class/01-08-205.md",
-    "Japanese/N3 Class/04-07-25.md",
     "Japanese/N3 Class/07-07-2025.md",
-    "Magang/Tiket/Things to Learn.md",
     "Japanese/N3 Class/Untitled.md",
-    "Magang/Tiket/TestRail.md",
     "Magang/Tiket/Organization Structure.canvas",
     "Magang/Tiket/Note.md",
     "Magang/Tiket/Doubt Session.md",
-    "Magang/Tiket/Catet bentar.md",
     "Magang/Tiket/Demo/Demo Sprint 65.md",
     "Magang/Tiket/Daily Notes/01-08-2025.md",
     "Magang/Tiket/Demo",
-    "Japanese Note Temp 25-07-2025.md",
-    "Magang/Tiket/Daily Notes/31-07-2025.md",
-    "Magang/Tiket/Daily Notes/30-07-2025.md",
     "Pasted image 20250730140553.png",
     "Pasted image 20250730112631.png",
     "Pasted image 20250730112619.png",
     "Pasted image 20250730112453.png",
     "Pasted image 20250730112442.png",
     "Pasted image 20250729190247.png",
-    "Japanese/N3 Class/21-07-2025.md",
-    "Untitled 3.md",
-    "Magang/Tiket/Daily Notes/29-07-2025.md",
     "Screenshot 2025-07-21 at 20.00.48.png",
     "Screenshot 2025-07-21 at 19.42.04.png",
     "Screenshot 2025-07-21 at 18.08.36.png",
     "Screenshot 2025-07-21 at 15.50.23.png",
-    "Magang/Tiket/KT/API Overview/3. Things to be Verified in API Automation.md",
-    "Magang/Tiket/KT/API Overview/2. Types of API (HTTP Methods).md",
     "Magang/Tiket/KT/API Overview",
     "Magang/Tiket/KT/API Automation",
     "Coding/TestNG",
@@ -273,7 +263,6 @@
     "Coding/Cucumber",
     "Magang/Tiket/KT/SQUAD Session",
     "Magang/Tiket/KT",
-    "Magang/Tiket/KT Plan/1. Squad Session",
-    "Magang/Tiket/KT Plan"
+    "Magang/Tiket/KT Plan/1. Squad Session"
   ]
 }
