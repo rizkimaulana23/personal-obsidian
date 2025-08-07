@@ -1,5 +1,4 @@
 ## **Internal Dashboard**
-#### **Sites URL**
 https://preprod.tiket.com/admin/member/v2
 #### **Account**
 ##### AM Account
@@ -14,6 +13,29 @@ Testingdev123!
 #### **Test Data Sheets**
 https://docs.google.com/spreadsheets/d/10fzTMvS2hKKEsXqXJBmTjvWCTbmof0bPCzd0kvdMDIs/edit?usp=sharing
 ---
-### Ignis
+## **B2B Corporate Dashboard (Panel - Corporate)**
+https://preprod.tiket.com/admin/corporate
+#### Account
+```
+am_supervisor.corp@tiket.com
+Testingdev123!
+```
+#### Test Data Sheets
 
-### CMS
+
+---
+## Insurance Dashboard (Panel - Corporate)
+https://preprod.tiket.com/admin/insurance
+#### Account
+
+```
+yanuar.kurniawan@tiket.com
+Tiket123
+```
+#### Test Data Sheets
+
+
+---
+## Ignis
+
+## CMS
