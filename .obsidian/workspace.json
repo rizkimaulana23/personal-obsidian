@@ -8,80 +8,101 @@
         "type": "tabs",
         "children": [
           {
-            "id": "909d0da2d4839fc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-05-08.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-08"
-            }
-          },
-          {
             "id": "c3eb2b5e35997bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magang/Pusilkom/Petty Cash.md",
+                "file": "Magang/Tiket/KT/SQUAD Session/1. Different Types of Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Petty Cash"
+              "title": "1. Different Types of Applications"
             }
           },
           {
-            "id": "6e0b4f36edfb9b00",
+            "id": "d4ebcdbeeece817d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Magang/Tiket/KT/SQUAD Session/13. Website Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 5"
+              "title": "13. Website Testing"
             }
           },
           {
-            "id": "c3fc3728fbc732b6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
-                "viewState": {
-                  "x": -629.6281840286724,
-                  "y": 512.5004262708804,
-                  "zoom": -0.7211429784033032
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sprint 66"
-            }
-          },
-          {
-            "id": "0e562a18bed604b8",
+            "id": "5f129bae3f2ebd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/N3 Class/08-08-2025.md",
+                "file": "Japanese/N3 Class/28-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-08-2025"
+              "title": "28-07-2025"
+            }
+          },
+          {
+            "id": "7de7e3effcaf2f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/N3 Class/28-07-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28-07-2025"
+            }
+          },
+          {
+            "id": "9fafbb40812428fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/N3 Class/30-07-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30-07-2025"
+            }
+          },
+          {
+            "id": "40eff3852b6585ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/N3 Class/04-08-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-08-2025"
+            }
+          },
+          {
+            "id": "764bc187bd6e6d7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -101,7 +122,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -113,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:Coding/Jenkins  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 253.5,
     "collapsed": true
   },
   "right": {
@@ -221,64 +242,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "0e562a18bed604b8",
+  "active": "764bc187bd6e6d7c",
   "lastOpenFiles": [
-    "Magang/Tiket/Daily Notes/08-08-2025.md",
-    "Japanese/N3 Class/08-08-2025.md",
-    "Magang/Tiket/Test Data, Sites, and Account.md",
-    "Japanese/Interview Prep/AsiaQuest/Interview Question.md",
-    "Japanese/Interview Prep/Untitled.md",
-    "Japanese/Interview Prep/AsiaQuest",
-    "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
-    "Japanese/Interview Prep",
-    "Magang/Tiket/Daily Notes/07-08-2025.md",
-    "Pasted image 20250807135022.png",
-    "Japanese/Interview Orientation 06-08-2025.md",
-    "Japanese/N3 Class/04-08-2025.md",
-    "Magang/Tiket/Organization Structure.canvas",
     "Untitled 7.md",
-    "Magang/Tiket/Sprint Notes/Sprint 66.md",
+    "Pasted image 20250807135022.png",
+    "Magang/Tiket/Test Data, Sites, and Account.md",
+    "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
     "Magang/Tiket/Sprint Notes",
-    "Magang/Tiket/Account.md",
-    "Magang/Tiket/TestRail.md",
-    "Magang/Tiket/Things to Learn.md",
+    "Magang/Tiket/Daily Notes/08-08-2025.md",
+    "Magang/Tiket/Daily Notes/07-08-2025.md",
     "Magang/Tiket/Daily Notes/04-08-2025.md",
-    "Magang/Tiket/Catet bentar.md",
+    "Magang/Tiket/Account.md",
     "Japanese/Sentence Mining Video.md",
+    "Japanese/N3 Class/08-08-2025.md",
     "Japanese/N3 Class/01-08-2025.md",
-    "Japanese/N3 Class/30-07-2025.md",
-    "Japanese/N3 Class/28-07-2025.md",
-    "Japanese/N3 Class/21-07-2025.md",
-    "Japanese/N3 Class/11-07-2025.md",
-    "Japanese/N3 Class/04-07-25.md",
+    "Japanese/Interview Prep/AsiaQuest/Interview Question.md",
+    "Japanese/Interview Prep/AsiaQuest",
+    "Japanese/Interview Prep",
+    "Japanese/Interview Orientation 06-08-2025.md",
     "Untitled 6.md",
     "Untitled 5.md",
+    "Japanese/N3 Class/04-08-2025.md",
     "Untitled 4.md",
-    "Japanese/N3 Class/25-07-2025.md",
+    "Magang/Tiket/Demo/Demo Sprint 65.md",
     "Magang/Tiket/Demo",
+    "Magang/Tiket/Daily Notes/31-07-2025.md",
+    "Magang/Tiket/Daily Notes/01-08-2025.md",
+    "Japanese/N3 Class/30-07-2025.md",
+    "Japanese/N3 Class/01-08-205.md",
+    "Untitled 3.md",
     "Pasted image 20250730140553.png",
     "Pasted image 20250730112631.png",
     "Pasted image 20250730112619.png",
     "Pasted image 20250730112453.png",
     "Pasted image 20250730112442.png",
     "Pasted image 20250729190247.png",
-    "Screenshot 2025-07-21 at 20.00.48.png",
-    "Screenshot 2025-07-21 at 19.42.04.png",
-    "Screenshot 2025-07-21 at 18.08.36.png",
-    "Magang/Tiket/KT/API Overview",
-    "Magang/Tiket/KT/API Automation",
+    "Magang/Tiket/Daily Notes/30-07-2025.md",
+    "Japanese/N3 Class/28-07-2025.md",
+    "Coding/Jenkins/1. What is Jenkins.md",
+    "Magang/Tiket/KT/API Overview/3. Things to be Verified in API Automation.md",
+    "Magang/Tiket/KT/API Overview/2. Types of API (HTTP Methods).md",
+    "Pasted image 20250729094436.png",
+    "Pasted image 20250729094405.png",
+    "Pasted image 20250728133736.png",
+    "Magang/Tiket/Codebase/TIKET-AUTOMATION",
+    "Magang/Tiket/Organization Structure.canvas",
     "Coding/TestNG",
-    "Coding/Jenkins",
+    "Magang/Tiket/Codebase/TIKET-API-AUTOMATION",
+    "Magang/Tiket/Codebase",
     "Coding/Cucumber",
-    "Magang/Tiket/KT/SQUAD Session"
+    "Coding/Jenkins"
   ]
 }
