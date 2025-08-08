@@ -70,17 +70,14 @@
             "id": "0e562a18bed604b8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
-                "viewState": {
-                  "x": -555.7634192635707,
-                  "y": 892.737645009868,
-                  "zoom": 0.14877689423590085
-                }
+                "file": "Magang/Tiket/Daily Notes/08-08-2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sprint 66"
+              "icon": "lucide-file",
+              "title": "08-08-2025"
             }
           }
         ],
@@ -234,11 +231,16 @@
   },
   "active": "0e562a18bed604b8",
   "lastOpenFiles": [
+    "Magang/Tiket/Test Data, Sites, and Account.md",
+    "Magang/Tiket/Daily Notes/08-08-2025.md",
+    "Japanese/Interview Prep/AsiaQuest/Interview Question.md",
+    "Japanese/Interview Prep/Untitled.md",
+    "Japanese/Interview Prep/AsiaQuest",
+    "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
+    "Japanese/Interview Prep",
     "Magang/Tiket/Daily Notes/07-08-2025.md",
     "Pasted image 20250807135022.png",
-    "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
     "Japanese/Interview Orientation 06-08-2025.md",
-    "Magang/Tiket/Test Data, Sites, and Account.md",
     "Japanese/N3 Class/04-08-2025.md",
     "Magang/Tiket/Organization Structure.canvas",
     "Untitled 7.md",
@@ -261,8 +263,6 @@
     "Untitled 4.md",
     "Japanese/N3 Class/25-07-2025.md",
     "Japanese/N3 Class/23-07-2025.md",
-    "Japanese/N3 Class/07-07-2025.md",
-    "Japanese/N3 Class/Untitled.md",
     "Magang/Tiket/Demo",
     "Pasted image 20250730140553.png",
     "Pasted image 20250730112631.png",
@@ -278,8 +278,6 @@
     "Coding/TestNG",
     "Coding/Jenkins",
     "Coding/Cucumber",
-    "Magang/Tiket/KT/SQUAD Session",
-    "Magang/Tiket/KT",
-    "Magang/Tiket/KT Plan/1. Squad Session"
+    "Magang/Tiket/KT/SQUAD Session"
   ]
 }

@@ -39,3 +39,13 @@ Tiket123
 ## Ignis
 
 ## CMS
+
+---
+## Intools
+https://preprod.tiket.com/admin/intools
+
+- Login di `MemberLoginPage`
+- Page utamanya di `FinanceDashboardPage`
+#### Account
+
+#### Test Data
