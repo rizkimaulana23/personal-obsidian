@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magang/Tiket/Daily Notes/08-08-2025.md",
+                "file": "Japanese/N3 Class/08-08-2025.md",
                 "mode": "source",
                 "source": false
               },
@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -231,8 +232,9 @@
   },
   "active": "0e562a18bed604b8",
   "lastOpenFiles": [
-    "Magang/Tiket/Test Data, Sites, and Account.md",
     "Magang/Tiket/Daily Notes/08-08-2025.md",
+    "Japanese/N3 Class/08-08-2025.md",
+    "Magang/Tiket/Test Data, Sites, and Account.md",
     "Japanese/Interview Prep/AsiaQuest/Interview Question.md",
     "Japanese/Interview Prep/Untitled.md",
     "Japanese/Interview Prep/AsiaQuest",
@@ -262,7 +264,6 @@
     "Untitled 5.md",
     "Untitled 4.md",
     "Japanese/N3 Class/25-07-2025.md",
-    "Japanese/N3 Class/23-07-2025.md",
     "Magang/Tiket/Demo",
     "Pasted image 20250730140553.png",
     "Pasted image 20250730112631.png",
