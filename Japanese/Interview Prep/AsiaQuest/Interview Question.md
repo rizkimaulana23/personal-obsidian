@@ -5,6 +5,10 @@ The task of a lead developer is to setup the coding environment, for example the
 
 That experience really taught me what it means to be in a team. Having a common goal, supporting each other until the goal is reached.
 
+チームワーク能力について最良の例一つは、私は開発者の長になった時です。その時、ソシアルメディアタレント会社によって情報システムを作っていました。私のチームは5人です。
+
+開発者の長として、私の仕事は開発環境を設ける、例えばコードベスとか、Gitブランチとか、そして何か使いたいフレームワークとかを設けます。そして、問題について他の開発者と話しています。
+
 ---
 ###### **Please, tell us about episodes of activities in which you worked particularly hard during your time at university.**
 One time, to really know what I'm capable of, I decided to really push myself and pick everything that I could pick. This happened at 6th semester of University which is about 6 months ago.
@@ -45,3 +49,32 @@ For a full-time employee, no. But for an intern, yes I have applied to many comp
 
 ---
 ##### **How long do you use a PC a day?**
+I use PC practically every time I have some task to do. I play games with it, I study with it, and I learn code with it. So, if I have to guess it's around 10 hours a day.
+
+---
+##### **What do you use it for?**
+Practically for everything. I study using PC, I code using PC, and I play games in my PC. 
+
+---
+##### **Do you do any programming?**
+Yes, I do. I have started programming even before my college so I started around 4 years ago. Right now, because I'm doing internship in a tech start-up, I'm basically code every day for 9 hours a day. 
+
+---
+##### **Which language are you best at?**
+I could do many languages like Python, Java, Go, SQL, and other, but I'm most proficient with Java. I started learning Java around 3 years ago and have been using it daily until now. I usually use Java for the Spring Boot for making a back-end system. But, right now I'm using Java for making a test automation in my internship. 
+
+---
+##### **How long have you been programming?**
+Ever since 4 years ago. I first studied it for college but after that I actually became interested and I code even in my spare time.
+
+---
+##### **Have you ever used AWS?**
+Yes. When I became the lead developer for a project in college, I handle most of the deployment. I use a lot of AWS service for the deployment. I use S3 bucket to handle the file storing management, I use Elastic Container Registry for handling and storing the deploy container, and I use EC2 for creating the server and deployment. Because of that experience, 
+
+---
+##### **Why are you doing programming? Is it because it's a hobby or because you like it? Or do you do it for school work, for tests, or credit?**
+At first, it is because of school work and credit. But, when I started learning web development like studying back-end, front-end, and UI/UX, I realize that I have the power to build any application that I want. So, I started making project for my own sake. I built application to track my own money, I built application to track my job searching, I built application for tracking my outfit, and so on. So, my main motivation for coding right now is to build an application that could my or even other people's problem.
+
+---
+##### **What kind of projects did you make in FYP?**
+
