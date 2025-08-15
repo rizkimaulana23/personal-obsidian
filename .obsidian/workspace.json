@@ -100,12 +100,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/N3 Class/08-08-2025.md",
+                "file": "Japanese/N3 Class/13-08-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-08-2025"
+              "title": "13-08-2025"
+            }
+          },
+          {
+            "id": "eba627afd31d7d35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -166,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5
   },
   "right": {
     "id": "84198a0f854b6d71",
@@ -259,15 +269,21 @@
   },
   "active": "5751c1d302622751",
   "lastOpenFiles": [
+    "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
+    "Japanese/N3 Class/13-08-2025.md",
+    "extent-report-11476 (1).html",
+    "extent-report-11287 (1).html",
+    "extent-report-11257 (1) 1.html",
+    "extent-report-11257 (1).html",
+    "Magang/Tiket/Note.md",
+    "Magang/Tiket/Test Data, Sites, and Account.md",
+    "Japanese/N3 Class/08-08-2025.md",
     "Untitled.md",
     "Untitled 8.md",
-    "Japanese/N3 Class/08-08-2025.md",
     "Magang/Tiket/Daily Notes/08-08-2025.md",
-    "Magang/Tiket/Test Data, Sites, and Account.md",
     "Japanese/Interview Prep/AsiaQuest/Interview Question.md",
     "Japanese/Interview Prep/Untitled.md",
     "Japanese/Interview Prep/AsiaQuest",
-    "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
     "Japanese/Interview Prep",
     "Magang/Tiket/Daily Notes/07-08-2025.md",
     "Pasted image 20250807135022.png",
@@ -288,9 +304,6 @@
     "Japanese/N3 Class/28-07-2025.md",
     "Japanese/N3 Class/21-07-2025.md",
     "Japanese/N3 Class/11-07-2025.md",
-    "Japanese/N3 Class/04-07-25.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
     "Magang/Tiket/Demo",
     "Pasted image 20250730140553.png",
     "Pasted image 20250730112631.png",
@@ -302,10 +315,6 @@
     "Screenshot 2025-07-21 at 19.42.04.png",
     "Screenshot 2025-07-21 at 18.08.36.png",
     "Magang/Tiket/KT/API Overview",
-    "Magang/Tiket/KT/API Automation",
-    "Coding/TestNG",
-    "Coding/Jenkins",
-    "Coding/Cucumber",
-    "Magang/Tiket/KT/SQUAD Session"
+    "Magang/Tiket/KT/API Automation"
   ]
 }
