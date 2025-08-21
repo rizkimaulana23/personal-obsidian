@@ -95,10 +95,17 @@
             "id": "50ea481044c132e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
+                "viewState": {
+                  "x": -187.8532237181815,
+                  "y": 2377.2179457475004,
+                  "zoom": -0.5781158932315803
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sprint 66"
             }
           }
         ],
@@ -241,6 +248,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -252,6 +260,11 @@
   },
   "active": "50ea481044c132e3",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Japanese/N3 Class/20-08-2025.md",
+    "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
+    "2025-07-09.md",
+    "Ngoreksi Basdat A09.md",
     "extent-report-11476 (1).html",
     "extent-report-11287 (1).html",
     "extent-report-11257 (1).html",
@@ -271,7 +284,6 @@
     "Untitled 7.md",
     "Pasted image 20250807135022.png",
     "Magang/Tiket/Test Data, Sites, and Account.md",
-    "Magang/Tiket/Sprint Notes/Sprint 66.canvas",
     "Magang/Tiket/Sprint Notes",
     "Magang/Tiket/Daily Notes/08-08-2025.md",
     "Magang/Tiket/Daily Notes/07-08-2025.md",
@@ -283,9 +295,6 @@
     "Japanese/Interview Prep",
     "Japanese/Interview Orientation 06-08-2025.md",
     "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Magang/Tiket/Demo/Demo Sprint 65.md",
     "Magang/Tiket/Demo",
     "Pasted image 20250730140553.png",
     "Pasted image 20250730112631.png",
@@ -297,8 +306,6 @@
     "Pasted image 20250729094405.png",
     "Pasted image 20250728133736.png",
     "Magang/Tiket/Codebase/TIKET-AUTOMATION",
-    "Magang/Tiket/Organization Structure.canvas",
-    "Coding/TestNG",
-    "Magang/Tiket/Codebase/TIKET-API-AUTOMATION"
+    "Magang/Tiket/Organization Structure.canvas"
   ]
 }

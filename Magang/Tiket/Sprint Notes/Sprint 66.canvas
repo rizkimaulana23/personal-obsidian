@@ -1,24 +1,37 @@
 {
 	"nodes":[
-		{"id":"726ae4086cc8fa70","type":"group","x":-820,"y":-220,"width":900,"height":1860,"color":"6","label":"Tasks and Dependency"},
+		{"id":"726ae4086cc8fa70","type":"group","x":-820,"y":-220,"width":1980,"height":3060,"color":"6","label":"Tasks and Dependency"},
 		{"id":"8ba49f78c39d68a5","type":"text","text":"QAAUT-11475","x":-675,"y":20,"width":250,"height":60},
 		{"id":"07d5a05a2721911e","type":"text","text":"QAAUT-29823","x":-675,"y":240,"width":250,"height":60},
-		{"id":"7035451e17678ab3","type":"text","text":"## **TTD Demo**\n### QAAUT-11257\n![[extent-report-11257 (1) 1.html]]\n### QAAUT-11287\n![[extent-report-11287 (1).html]]\n### QAAUT-11476\n![[extent-report-11476 (1).html]]\n","x":260,"y":-480,"width":500,"height":620},
-		{"id":"4feca3d239ed30d8","type":"text","text":"QAAUT-29822\ntestApprovedLeadHasOnboardText","x":-675,"y":540,"width":250,"height":100},
 		{"id":"a61fa1edfd8831c8","type":"text","text":"QAAUT-29826","x":-800,"y":120,"width":250,"height":60},
-		{"id":"ac995805964bda71","type":"text","text":"QAAUT-29821\ntestDocumentSubmissionTabShowsUploadedDocuments","x":-800,"y":340,"width":250,"height":120},
-		{"id":"644b5311b09994cb","type":"text","text":"QAAUT-11338\ntestSetPrimaryActive","x":-800,"y":700,"width":620,"height":80},
-		{"id":"6fa80e8d1964ec86","type":"text","text":"QAAUT-11323\ntestCreateNewProductDesign","x":-800,"y":840,"width":620,"height":100},
-		{"id":"a9416797087f2b45","type":"text","text":"QAAUT-18654\ntestAddTransactionB2BReseller\n\nNunggu konfirmasi untuk proses deletion newly created data","x":-800,"y":980,"width":620,"height":120},
-		{"id":"5e769c4547279a8b","type":"text","text":"QAAUT-17618\naddTransactionFlightInternational\n\nNunggu konfirmasi untuk proses deletion newly created data","x":-800,"y":1120,"width":620,"height":120},
 		{"id":"d84ea16503bfa573","type":"text","text":"QAAUT-11476","x":-800,"y":-100,"width":250,"height":60},
 		{"id":"d166197d3ba7b359","type":"text","text":"QAAUT-11287","x":-800,"y":-200,"width":250,"height":60},
-		{"id":"ef3068f68808d967","type":"text","text":"LoginMemberAdmin","x":-1331,"y":1840,"width":531,"height":210},
-		{"id":"1187824e3b6e11c5","type":"text","text":"QAAUT-11431","x":-800,"y":1260,"width":620,"height":120}
+		{"id":"ac995805964bda71","type":"text","text":"QAAUT-29821\ntestDocumentSubmissionTabShowsUploadedDocuments","x":-800,"y":340,"width":250,"height":120},
+		{"id":"4e3ba27c0cc95638","type":"text","text":"QAAUT-33222\ntestLoungeVerifyActivateLounge","x":-420,"y":2220,"width":620,"height":120},
+		{"id":"c00f2d26e2d42308","type":"text","text":"QAAUT-33223\ntestLoungeVerifyAddUsersLounge","x":-420,"y":2400,"width":620,"height":120},
+		{"id":"644b5311b09994cb","type":"text","text":"QAAUT-11338\ntestSetPrimaryActive","x":-800,"y":700,"width":620,"height":80},
+		{"id":"4feca3d239ed30d8","type":"text","text":"QAAUT-29822\ntestApprovedLeadHasOnboardText","x":-675,"y":540,"width":250,"height":100},
+		{"id":"5e769c4547279a8b","type":"text","text":"QAAUT-17618\naddTransactionFlightInternational","x":-800,"y":1120,"width":620,"height":80},
+		{"id":"6fa80e8d1964ec86","type":"text","text":"QAAUT-11323\ntestCreateNewProductDesign","x":-800,"y":840,"width":620,"height":100},
+		{"id":"a9416797087f2b45","type":"text","text":"QAAUT-18654\ntestAddTransactionB2BReseller","x":-800,"y":980,"width":620,"height":80},
+		{"id":"1187824e3b6e11c5","type":"text","text":"QAAUT-11431","x":-800,"y":1240,"width":620,"height":120},
+		{"id":"a14020df7de7066d","type":"text","text":"QAAUT-11435","x":-420,"y":1480,"width":480,"height":120},
+		{"id":"8129d54fe798ab4a","type":"text","text":"QAAUT-11432","x":-420,"y":1640,"width":480,"height":120},
+		{"id":"44cf29c57134fcfd","type":"text","text":"QAAUT-11434","x":-420,"y":1800,"width":480,"height":120},
+		{"id":"ef3068f68808d967","type":"text","text":"LoginMemberAdmin","x":-1440,"y":1710,"width":531,"height":210},
+		{"id":"69084849ef69553a","type":"text","text":"QAAUT-33221\ntestLoungeVerifyAddLounge","x":-800,"y":2000,"width":620,"height":120},
+		{"id":"508b84414244c0b5","type":"text","text":"QAAUT-33225\ntestLoungeVerifyActiveUsers","x":-110,"y":2600,"width":620,"height":120},
+		{"id":"7035451e17678ab3","type":"text","text":"## **TTD Demo**\n### QAAUT-11257\n![[extent-report-11257 (1) 1.html]]\n### QAAUT-11287\n![[extent-report-11287 (1).html]]\n### QAAUT-11476\n![[extent-report-11476 (1).html]]\n","x":1260,"y":-220,"width":500,"height":620}
 	],
 	"edges":[
 		{"id":"9606a9021507eee2","fromNode":"8ba49f78c39d68a5","fromSide":"top","toNode":"d84ea16503bfa573","toSide":"bottom"},
 		{"id":"abe92bfb744e67e0","fromNode":"07d5a05a2721911e","fromSide":"top","toNode":"a61fa1edfd8831c8","toSide":"bottom"},
-		{"id":"6b7a11d530a5fe68","fromNode":"4feca3d239ed30d8","fromSide":"top","toNode":"ac995805964bda71","toSide":"bottom"}
+		{"id":"6b7a11d530a5fe68","fromNode":"4feca3d239ed30d8","fromSide":"top","toNode":"ac995805964bda71","toSide":"bottom"},
+		{"id":"2d6bfc715cc8e515","fromNode":"a14020df7de7066d","fromSide":"top","toNode":"1187824e3b6e11c5","toSide":"bottom"},
+		{"id":"d30aaef99583c012","fromNode":"8129d54fe798ab4a","fromSide":"top","toNode":"1187824e3b6e11c5","toSide":"bottom"},
+		{"id":"d982a8889bb91beb","fromNode":"44cf29c57134fcfd","fromSide":"top","toNode":"1187824e3b6e11c5","toSide":"bottom"},
+		{"id":"5847fd092894ee8b","fromNode":"4e3ba27c0cc95638","fromSide":"top","toNode":"69084849ef69553a","toSide":"bottom"},
+		{"id":"ad76cc5d12da5f47","fromNode":"c00f2d26e2d42308","fromSide":"top","toNode":"69084849ef69553a","toSide":"bottom"},
+		{"id":"effe0c9762df933d","fromNode":"508b84414244c0b5","fromSide":"top","toNode":"c00f2d26e2d42308","toSide":"bottom"}
 	]
 }
